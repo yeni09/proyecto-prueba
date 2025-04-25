@@ -1,1 +1,4 @@
 Mi primer archivo con Git
+
+Estoy aprendiendo Git con Visual Studio Code.
+
